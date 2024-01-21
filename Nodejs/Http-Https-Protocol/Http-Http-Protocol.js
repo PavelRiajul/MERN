@@ -1,4 +1,4 @@
-// Http Protocol Request Respons model.
+// Http Protocol/ Request Respons model.
 
 // client-side theke akta http-request jai server a . server seei request ta execute kore  proccess kore server akta respons client-computer er kase pathiye deei.
 
