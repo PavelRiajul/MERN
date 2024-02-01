@@ -4,7 +4,7 @@
 const app= require('./app') 
 
 // akta listen port lagbe
-app.listen(1000,function(){
+app.listen(2000,function(){
     console.log('Listening on port 3000')
 })
 

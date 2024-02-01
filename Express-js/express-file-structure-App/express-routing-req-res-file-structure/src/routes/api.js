@@ -6,6 +6,7 @@ const demoControllers = require('../controllers/DemoControllers')
 //URL params/query string/search string/parameter-same
 //demo1 er bitore akta  url parameter name  pathabo
 //amra url parameter patabo maximum 5 ta er beshi na
+//ae name are city er egniste  value pathapo
 router.get('/demo1/:name/:city',demoControllers.demo1)
 
 
