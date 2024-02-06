@@ -17,4 +17,4 @@
 //* arekta HTTP client hocche Postman
 //jokhon amra server side/Backend  develop kori,Backend a request pathanor jonno ja kiso lagee ,tar sob doroner scope ae Postman tool tar bitore ase.and backend theke jeei response ashe ,seei sob doroner response bisoe goloke simolate/test/genarate  korar jonno use ful tool.
 
-//
+// postman er moto document generate kore  arekta software ase swagger.kinto postnam best.

@@ -5,3 +5,6 @@
 
 //request body er type hocche JSON obj
 //Header er data golo Key value pair akare jai.
+
+//amra json body neye kaj korbo
+//mern stack a req jabe json res ashbe json.

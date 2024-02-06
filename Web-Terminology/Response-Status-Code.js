@@ -28,3 +28,6 @@
 //405 aetao amader ke manually manage korte hoy na. jemon amar jeei method request ta pathanor kotha seei metha request pathai ni .
 //408 auto manage 
 //503 service unavailble- jokhon amader server a  onekload request  pore  ba over loaded hoye jai , je tar execution khomotar baere chole gese are beshi execute se korte parse na 
+
+
+//* 200 are 401 menually manage korbo.bakisob auto manage hobe.
