@@ -26,7 +26,13 @@
 //*What is Embedded data Model?
 //Embedded data Model mins --> apnar akta single document thakbe,sei single document er bitore alada alada object kore kore data golo ke rekhe debo.
 //example:-> akta employe er sob document amra akta document er bitore rekhe debo.
+//akta blog application, oikhane kono taka posar hisab nae, abar businees er kono dare nae, oi doroner khetre amra Embedded data model use korbo.jei khane amar kono business nae.
 
 //*what is Normalized data Model?
 // akta document er bitore na rekhe seta ke benge benge alda collection er bitore dete partam.alada document hesabe rekhe dete partam.
 //chaile amra employe id er jonno akta collection manage korte partam, tar jei personal detailes ase sei personal detaile er jonno akta collection manage korte partam, address detailes er jonno arekta collection manage korte partam.
+
+//Business application a amra obossoe Normalized data model a jabo.
+
+
+// amamder project a amra Normalize data model a jabo

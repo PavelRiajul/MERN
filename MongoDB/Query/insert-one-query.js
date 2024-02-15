@@ -1,4 +1,7 @@
+//What is mongodb MQL? --> MongoDB Query Language
+
 // akhon amra soro korbo application level query
+
 //jokhon amra web application develop korbo amra , tokhon mongodb te kon doroner query gola aamader lekhte hobe.
 
 //* Query practices korar somoy mongodb extion er playground a prictices korbo.

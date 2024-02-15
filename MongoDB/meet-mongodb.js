@@ -25,9 +25,9 @@
 
 
 //akhon jokhon amra NoSQL database neye kaj korsi mongodb te, tokhon aekhane kinto traditional database er moto  kono 
-//1-> table thakse na
-//2-> row thaksena
-//3-> kono complex join amader thakse na
+//1-> table thakse na -->( mongodb te table ke bolbo colllection)
+//2-> row thaksena --->(ak akta obj ee hocche ak akta row)
+//3-> no complex join amader thakse na -->( akhon onek complex join mongodb te query kora jai. and query er bitore business logic o manage kora jai. jeta akta somoy possiblesilo na)
 
 //*but aekhane aegolo na thakar karone bes kiso advantages amra pacche.
 //*Advantages
@@ -48,7 +48,13 @@
 //6->Ease of scale-out
 //7->uses internal memoty for sorting
 
-
+//8-> jekhane hochhe heuj poriman a data thake,jai data ta unstructured thakte pare, abar structural thakte pare,and jei data neye kaj kora akta normal ba sadaron manoser pokkhe kora somvob noe, sei ta ke amra BigData bolte pari.
+//BigData er kiso boisisto ase
+//large number of data hobe
+//oikhane data kokhono schema thakbe abar kokhono thakbe na
+// kokhon string hocche, kokhon boolean hocche, number hocche aetar o kono thik thikana thakbe na.
+//data type er kono thik thikana nae.
+//frequency(data droto poribortonshil)
 
 //*Where to use mongodb(mongodb amra kothai us korbo)
 
@@ -58,3 +64,7 @@
 
 
 //******************** */
+//ACID Properties in DBMS
+// Atomicity, Consistency,Isolation,Durabiliti  --> ae 4 ta property jodi kono database system  a na thake , tahole oi databae system deye kokhonow banijjik khetre kono application develope kora hoy na.
+//ae 4 ta property sql database a agee thekee asilo.
+//akhon completry mongodb ACID  property suppod kore.

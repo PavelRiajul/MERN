@@ -26,3 +26,6 @@
 
 
 //databes er bitore  (1)compass and (2) Mongodb fo vs code   amader beshi kaje lagbe.
+
+
+//Mongodb database server ta ke  Mongodb compass deye o connect korte pari, abar chaile vs code deye o connect korte pari.
