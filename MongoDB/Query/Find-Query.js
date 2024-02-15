@@ -5,3 +5,13 @@
 
 // ami chacchi akta data find korte. seikhetre amra findOne() method use korbo.
 //findOne method jokhon use korbo tokhon aekhane amader akta maching parameter pathate hobe , jei parameter ta object akare jabe.
+
+//db.ostad.find({}) 
+//db.ostad.aggregate([])
+
+//matching condition
+// db.ostad.find({brand:samsung})
+//db.ostad.aggregate([ -->pipeline
+    // {}, -->stage
+    // {}
+// ])
