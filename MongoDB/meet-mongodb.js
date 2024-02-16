@@ -68,3 +68,10 @@
 // Atomicity, Consistency,Isolation,Durabiliti  --> ae 4 ta property jodi kono database system  a na thake , tahole oi databae system deye kokhonow banijjik khetre kono application develope kora hoy na.
 //ae 4 ta property sql database a agee thekee asilo.
 //akhon completry mongodb ACID  property suppod kore.
+
+
+
+//************************************************************* */
+//*   Mongodb   vs    Mongosh
+
+//Mongodb hocche akta Database. are Mongosh hocche akta library/driver ,aeta mongodb ke chalona kore.
