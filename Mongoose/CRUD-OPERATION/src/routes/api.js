@@ -21,7 +21,7 @@ router.post("/update-product/:id",productController.updateProduct)
 //************************************ */
 //studentmodel
 //*C=Create new student data
-router.post('/create-student',studentController.createStudents)
+router.post('/create-student',studentController.createStudents)   //api in point
 //*R=Read  (data read)
 router.get('/read-student',studentController.readStudents)
 //*Red single studen id check korbo
