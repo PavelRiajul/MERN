@@ -57,3 +57,8 @@
 //3-> How to create auth middleware in express project --(encode decode korlam amra json ta ke, aeta ke kivabe akta middleware akare  amra project er bitore create korte pari.- orthat project er bitore auth namee akta middleware create korbo  sei middleware er bitore kivabe encode decode er bisoi ta ke manage kora jai sei bisoe ti dekhbo)
 
 //4-> How to apply auth middleware in route   --(finaly amra authentication er jonno jei middleware ti create kore nilam, sei middleware ti ke kivabe bivinno route er modde apply kora jai  , sei bisoe ti shikhbo)
+
+
+//**** */
+//amra Token ke url and body  er maddome na paetheye  amra Header er maddome pathabo.
+//Token anad-prodan er best practices holo header a pathano.
